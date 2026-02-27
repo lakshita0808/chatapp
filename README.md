@@ -54,17 +54,3 @@ npx convex dev
 ```bash
 npm run dev
 ```
-
-5. Seed demo users/messages (recommended before demo recording):
-
-- Open `/users`
-- Click `Seed demo users`
-- Start chat with `Alex Tars`
-
-See [DEMO_SCRIPT.md](./DEMO_SCRIPT.md) for a full 5-minute presentation script.
-
-## Important notes
-
-- Convex generated files are created by `npx convex dev`.
-- Clerk IDs are used as app-level user IDs in conversation/message documents.
-- This repo is scaffolded for iteration; optional features like reactions UI and group creation mutation are ready to extend.
