@@ -1,0 +1,2 @@
+export const TYPING_WINDOW_MS = 2000;
+export const AUTO_SCROLL_THRESHOLD_PX = 200;
